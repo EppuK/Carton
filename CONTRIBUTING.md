@@ -1,3 +1,8 @@
-## Before contributing:
-- [ ] I have read and agree to the [CLA.md](CLA.md)
-- [ ] I understand my contributions will be dual-licensed under AGPLv3 and commercial terms
+# Contributing
+
+## Before you contribute:
+1. Read [CLA.md](CLA.md)
+2. You must agree to the CLA terms
+3. Include this in your PR description:
+
+**CLA Agreement:** I have read and agree to the terms in CLA.md
